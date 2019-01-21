@@ -1,6 +1,11 @@
 <?php
 
-// verifying POST data and adding the values to session variables
+// 
+/*
+ * successfull redirection checking
+ * SIMPLE BASIC LOGIN
+ *
+ */
 if(isset($_REQUEST["code"])){
     echo '<pre>';
     print_r($_REQUEST);
