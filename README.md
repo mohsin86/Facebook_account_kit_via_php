@@ -4,4 +4,5 @@ You can download the project, test it in your server to understand the flow with
 
 __Requirements__
 * PHP 5.6+
+* fb app id
 
